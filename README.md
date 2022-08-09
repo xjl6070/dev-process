@@ -195,7 +195,8 @@ rosrun rqt_graph rqt_graph
 
 #### 1．注册大疆开发者账号
 
-***(https://developer.dji.com/cn/)***，创建OboardSDK的app获取app_id和app_key。
+***(https://developer.dji.com/cn/)***
+创建OboardSDK的app获取app_id和app_key。
 
 #### 2．下载OnboardSDK包
 
